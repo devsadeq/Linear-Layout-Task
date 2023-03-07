@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Linear Layout Task</string>
+    <string name="name">Ahmed hassan</string>
+    <string name="time">3 hr</string>
+    <string name="job_title">Engineer</string>
+    <string name="country">Russian</string>
+    <string name="pin_description">Pin icon representing location</string>
+    <string name="work_country">UK</string>
+    <string name="publish_time">5 Days ago</string>
+    <string name="reviews_count">(150 Reviews)</string>
+    <string name="rating">4.5</string>
+    <string name="star_description">Star icon representing rating</string>
 </resources>
